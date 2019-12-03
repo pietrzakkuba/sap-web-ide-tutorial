@@ -1,3 +1,3 @@
 # sap-web-ide-tutorial
 
-https://open.sap.com/courses/ui51/a
+https://open.sap.com/courses/ui51/
